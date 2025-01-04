@@ -262,8 +262,8 @@ body {
     width: 71vw;
     position: relative;
     left: 28%;
-    background-color: red;
-    background-image: url("./image copy.png");
+    /* background-color: red; */
+    background-image: url("./images/image copy.png");
     background-size: cover;
     background-position: center;
 }
